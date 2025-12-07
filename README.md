@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Piotr Jurczyk** — Data Science student at MiNI, Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis.
+I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis.
 
 ## 🧑‍💻 Personal Projects
 
