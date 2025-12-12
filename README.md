@@ -1,17 +1,18 @@
 # Hi there 👋
 
-I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis.
+I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
 
 ## 🧑‍💻 Personal Projects
 
 - **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing)
-  - Analysis of parking violation patterns 
-  - Analysis of citibike usage and correlations with weather conditions
+  - Analysis of parking violation patterns and citibike usage
   - Predictive modeling using scikit-learn
  
+- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)**
+  - Building Convolutional Neural Network in PyTorch for image recognition
+ 
 - **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)**
-  - Comparison of ML models (Logistic Regression, Random Forest, XGBoost + ensemble)
-  - Feature engineering, model tuning, performance evaluation
+  - Using various ML models (Logistic Regression, Random Forest, XGBoost + ensemble)
   - Kaggle competition submission (ACC = 0.78229)
 
 
@@ -24,6 +25,10 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 - **AirPollutionPredictor** (ongoing)
   - Collecting and logging air quality and weather data from API
   - Building a model to forecast smog levels using historical data
+ 
+- **Brain-To-Text** (ongoing)
+  - Building a brain-computer interface (BCI) for decoding speech from brain activity
+  - Current model uses CNN and BiLSTM
 
 - **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)**
   - Short- vs long-term trends in airplane traffic after WTC Attacks
@@ -40,4 +45,4 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 
 ## 📫 Contact & Connect  
-Feel free to reach out on [Linkedin](https://www.linkedin.com/in/piotr-jurczyk/) or check my repositories for more details.  
+You can contact me on [Linkedin](https://www.linkedin.com/in/piotr-jurczyk/).
