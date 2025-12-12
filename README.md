@@ -4,35 +4,22 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 ## 🧑‍💻 Personal Projects
 
-- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing)
-  - Analysis of parking violation patterns and citibike usage
-  - Predictive modeling using scikit-learn
+- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - analysis of parking violation patterns and citibike usage with predictive modeling using scikit-learn.
  
-- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)**
-  - Building Convolutional Neural Network in PyTorch for image recognition
+- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - building Convolutional Neural Network in PyTorch for image recognition.
  
-- **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)**
-  - Using various ML models (Logistic Regression, Random Forest, XGBoost + ensemble)
-  - Kaggle competition submission (ACC = 0.78229)
-
+- **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)** - Using various ML models (Logistic Regression, Random Forest, XGBoost + ensemble). Kaggle competition submission (ACC = 0.78229).
+  
 
 ## 🎓 University Coursework Projects
 
-- **Review rating prediction** (ongoing)
-  - Experimenting with different text representations
-  - Building a model to predict one fo 5 classes for each review using regression or classification
+- **Review rating prediction** (ongoing) - experimenting with different text representations and Building a model to predict one fo 5 classes for each review using regression or classification.
 
-- **AirPollutionPredictor** (ongoing)
-  - Collecting and logging air quality and weather data from API
-  - Building a model to forecast smog levels using historical data
+- **AirPollutionPredictor** (ongoing) - collecting and logging air quality and weather data from API. Building a model to forecast smog levels using historical data.
  
-- **Brain-To-Text** (ongoing)
-  - Building a brain-computer interface (BCI) for decoding speech from brain activity
-  - Current model uses CNN and BiLSTM
+- **Brain-To-Text** (ongoing) - building a brain-computer interface (BCI) for decoding speech from brain activity. Current model uses CNN and BiLSTM.
 
-- **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)**
-  - Short- vs long-term trends in airplane traffic after WTC Attacks
-  - Visualization and animations (ggplot2, gganimate)
+- **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)** - Short- vs long-term trends in airplane traffic after WTC Attacks.
 
 
 ## 🛠 Technologies & Tools  
