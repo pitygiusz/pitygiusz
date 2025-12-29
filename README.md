@@ -4,7 +4,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 ## 🧑‍💻 Personal Projects
 
-- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - analysis of parking violation patterns and citibike usage with predictive modeling using scikit-learn.
+- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - machine learning web application that predicts citibike usage and analysis of parking violation patterns.
  
 - **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - building Convolutional Neural Network in PyTorch for image recognition.
  
