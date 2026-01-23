@@ -2,7 +2,7 @@
 
 I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
 
-## 🧑‍💻 Personal Projects
+## Personal Projects
 
 - **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - machine learning web application that predicts citibike usage and analysis of parking violation patterns.
  
@@ -11,7 +11,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 - **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)** - Using various ML models (Logistic Regression, Random Forest, XGBoost + ensemble). Kaggle competition submission (ACC = 0.78229).
   
 
-## 🎓 University Coursework Projects
+## University Coursework Projects
 
 - **Review rating prediction** (ongoing) - experimenting with different text representations and Building a model to predict one fo 5 classes for each review using regression or classification.
 
@@ -22,7 +22,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 - **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)** - Short- vs long-term trends in airplane traffic after WTC Attacks.
 
 
-## 🛠 Technologies & Tools  
+## Technologies & Tools  
 - R, Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch)
 - SQL, MS SQL
 - Linux, Bash, Hadoop, Hive, NiFi
@@ -31,5 +31,5 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 - MS Office (including VBA)
 
 
-## 📫 Contact & Connect  
+## Contact & Connect  
 You can contact me on [Linkedin](https://www.linkedin.com/in/piotr-jurczyk/).
