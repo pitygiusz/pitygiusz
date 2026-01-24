@@ -3,26 +3,24 @@
 I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
 
 ## Personal Projects
-- **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - building an end-to-end RAG system with conversation abilities, without relying on high-level frameworks, and running the entire project locally.
+- **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end RAG system with conversation abilities, without relying on high-level frameworks, and running the entire project locally.
 
-- **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)** - interactive Streamlit application that enables code-free training, tuning, and evaluation of Titanic survival models.
+- **[Titanic-Training-Platform](https://github.com/pitygiusz/Titanic-Training-Platform)** - Interactive Streamlit application that enables code-free training, tuning, and evaluation of Titanic survival models.
 
+- **[NYC-Citibike-Predictor](https://github.com/pitygiusz/NYC-Citibike-Predictor)** - Demand forecaster for the NYC Citi Bike network, developed as a full-stack web application.
 
-- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - focusing on NYC urban infrastructure, processing 30M+ records of real world data and deploying a web application.
-
- 
-- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - building Convolutional Neural Network in PyTorch for image recognition.
+- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - Convolutional Neural Network in PyTorch for image recognition.
  
 
 
 ## University Coursework Projects
 
-- **Review rating prediction** (ongoing) - experimenting with different text representations and building a model to predict one of 5 classes for each review using regression or classification.
+- **Review rating prediction** (ongoing) -  NLP models predicting review scores, evaluating various text representations, including TF-IDF, SentenceTransformers, and BERT.
 
-- **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - collecting air quality and weather data from API and saving it into PostgreSQL. Building a model to forecast smog levels using historical weather data.
+- **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - PostgreSQL data pipeline and time-series forecasting for air quality monitoring.
+  
+- **Brain-To-Text** (ongoing) - Brain-computer interface (BCI) for decoding speech from brain activity.
  
-- **Brain-To-Text** (ongoing) - building a brain-computer interface (BCI) for decoding speech from brain activity. Current model uses CNN and BiLSTM.
-
 - **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)** - Short- vs long-term trends in airplane traffic after WTC Attacks.
 
 
