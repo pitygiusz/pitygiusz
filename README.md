@@ -15,7 +15,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 ## University Coursework Projects
 
-- **Review rating prediction** (ongoing) -  NLP models predicting review scores, evaluating various text representations, including TF-IDF, SentenceTransformers, and BERT.
+- **Review rating prediction** (ongoing) -  NLP models predicting review scores with various text representations, including TF-IDF, SentenceTransformers, and BERT.
 
 - **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - PostgreSQL data pipeline and time-series forecasting for air quality monitoring.
   
