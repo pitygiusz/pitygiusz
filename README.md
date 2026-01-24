@@ -5,16 +5,19 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 ## Personal Projects
 - **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - building an end-to-end RAG system with conversation abilities, without relying on high-level frameworks, and running the entire project locally.
 
-- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - machine learning project based around real-world data from New York City. Currently it includes comprehensive analysis of parking violation patterns and a web application that predicts citibike usage.
+- **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)** - interactive Streamlit application that enables code-free training, tuning, and evaluation of Titanic survival models.
+
+
+- **[NYC-ML-Project](https://github.com/pitygiusz/NYC-ML-Project)** (ongoing) - focusing on NYC urban infrastructure, processing 30M+ records of real world data and deploying a web application.
+
  
 - **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - building Convolutional Neural Network in PyTorch for image recognition.
  
-- **[Titanic-ML-Project](https://github.com/pitygiusz/Titanic-ML-Project)** - Using various ML models to predict which passengers survived the Titanic shipwreck.
-  
+
 
 ## University Coursework Projects
 
-- **Review rating prediction** (ongoing) - experimenting with different text representations and building a model to predict one fo 5 classes for each review using regression or classification.
+- **Review rating prediction** (ongoing) - experimenting with different text representations and building a model to predict one of 5 classes for each review using regression or classification.
 
 - **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - collecting air quality and weather data from API and saving it into PostgreSQL. Building a model to forecast smog levels using historical weather data.
  
