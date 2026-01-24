@@ -3,7 +3,7 @@
 I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
 
 ## Personal Projects
-- **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end RAG system with conversation abilities, without relying on high-level frameworks, and running the entire project locally.
+- **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end local RAG system with conversation abilities, without relying on high-level frameworks.
 
 - **[Titanic-Training-Platform](https://github.com/pitygiusz/Titanic-Training-Platform)** - Interactive Streamlit application that enables code-free training, tuning, and evaluation of Titanic survival models.
 
