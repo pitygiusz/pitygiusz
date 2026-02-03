@@ -7,7 +7,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 - **[Titanic-Training-Platform](https://github.com/pitygiusz/Titanic-Training-Platform)** - Interactive Streamlit application that enables code-free training, tuning, and evaluation of Titanic survival models.
 
-- **[NYC-Citibike-Predictor](https://github.com/pitygiusz/NYC-Citibike-Predictor)** - Demand forecaster for the NYC Citi Bike network, developed as a web application.
+- **[NYC-Citibike-Predictor](https://github.com/pitygiusz/NYC-Citibike-Predictor)** - Demand forecaster for the NYC Citi Bike network, deployed as a web application.
 
 - **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - Convolutional Neural Network in PyTorch for image recognition.
  
