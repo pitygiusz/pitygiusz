@@ -27,7 +27,7 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 
 ## Technologies & Tools  
-- R, Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch)
+- R, Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit)
 - GenAI & LLM (Hugging Face Transformers, SentenceTransformer, Ollama)
 - SQL, MS SQL
 - Linux, Bash, Hadoop, Hive, NiFi, Kafka, Spark
