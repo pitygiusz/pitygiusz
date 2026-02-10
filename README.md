@@ -15,11 +15,11 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 ## University Coursework Projects
 
-- **Review rating prediction** (ongoing) -  NLP models predicting review scores with various text representations, including TF-IDF, SentenceTransformers, and BERT.
+- **Review rating prediction** -  NLP models predicting review scores with various text representations, including TF-IDF, SentenceTransformers, and BERT.
 
 - **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - PostgreSQL data pipeline and time-series forecasting for air quality monitoring.
   
-- **Brain-To-Text** (ongoing) - Brain-computer interface (BCI) for decoding speech from brain activity.
+- **[Brain-To-Text](https://github.com/pitygiusz/BrainToText)** - Brain-computer interface (BCI) for decoding speech from brain activity.
 
 - **[LSTM-Gesture-Recognition](https://github.com/pitygiusz/LSTM-Gesture-Recognition)** - Gesture recognition system built with LSTMs to classify hand-drawn shapes in real-time.
  
