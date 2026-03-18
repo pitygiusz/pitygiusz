@@ -3,7 +3,7 @@
 I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
 
 ## Personal Projects
-- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach) - A personal triathlon training assistant powered by Google Gemini.
+- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach)** - A personal triathlon training assistant powered by Google Gemini.
 
 - **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end local RAG system with conversation abilities, without relying on high-level frameworks.
 
