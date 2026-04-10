@@ -3,17 +3,13 @@
 I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with Bachelor’s degree in Mathematics. Interested in **ML** and **GenAI**. Feel free to explore my current and finished projects!
 
 ## Personal Projects
-Start here:
-
-- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach) (ongoing)** - An agent-based AI coaching system designed to assist you in training for traithlons.
+- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach)** - An agent-based AI coaching system designed to assist you in training for traithlons. (**Start here!**)
 
 - **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end local RAG system with conversation abilities, without relying on high-level frameworks.
 
 - **[Titanic-Training-Platform](https://github.com/pitygiusz/Titanic-Training-Platform)** - Interactive application that enables code-free training, tuning, and evaluation of Titanic survival models.
 
 - **[NYC-Citibike](https://github.com/pitygiusz/NYC-Citibike)** - Demand forecaster and historical data analysis for the NYC Citi Bike network, deployed as a web application.
-
-Other: 
 
 - **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - Custom CNN for predicting flower types.
 
