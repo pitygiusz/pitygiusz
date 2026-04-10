@@ -1,15 +1,23 @@
 # Hi there 👋
 
-I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics. Interested in ML and GenAI. Feel free to explore my current and finished projects!
+I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with Bachelor’s degree in Mathematics. Interested in **ML** and **GenAI**. Feel free to explore my current and finished projects!
 
 ## Personal Projects
-- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach)** - An agent-based AI coaching system designed to assist you in training for traithlons.
+Start here:
+
+- **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach) (ongoing)** - An agent-based AI coaching system designed to assist you in training for traithlons.
 
 - **[RAG-From-Scratch](https://github.com/pitygiusz/RAG-From-Scratch)** - End-to-end local RAG system with conversation abilities, without relying on high-level frameworks.
 
 - **[Titanic-Training-Platform](https://github.com/pitygiusz/Titanic-Training-Platform)** - Interactive application that enables code-free training, tuning, and evaluation of Titanic survival models.
 
 - **[NYC-Citibike](https://github.com/pitygiusz/NYC-Citibike)** - Demand forecaster and historical data analysis for the NYC Citi Bike network, deployed as a web application.
+
+Other: 
+
+- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - Custom CNN for predicting flower types.
+
+- **[Students-Survey](https://github.com/pitygiusz/Student-Surveys)** - Basic EDA and predictive model for the use of AI by students.
 
 
 ## University Coursework Projects
@@ -24,15 +32,13 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 
 ## Technologies & Tools  
-- R, Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit)
+- Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit)
 - GenAI & LLM (Hugging Face, RAG, Gemini API, Ollama, n8n)
 - SQL, MS SQL
 - Linux, Bash, Hadoop, Hive, NiFi, Kafka, Spark
 - Java basics
 - Git, GitHub, GitHub Copilot
-- MATLAB, Wolfram Mathematica
-- MS Office (including VBA)
-- Basics of Cloud Computing (GCP, Azure)
+- Basics of Cloud Computing (GCP, Azure), MS Office
 
 
 ## Contact & Connect  
