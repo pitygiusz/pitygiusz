@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics and a solid foundation in programming and data analysis. Feel free to explore my current projects!
+I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with a Bachelor’s degree in Mathematics. Interested in ML and GenAI. Feel free to explore my current and finished projects!
 
 ## Personal Projects
 - **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach)** - An agent-based AI coaching system designed to assist you in training for traithlons.
