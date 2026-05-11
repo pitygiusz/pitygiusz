@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with Bachelor’s degree in Mathematics. Interested in **ML** and **GenAI**. Feel free to explore my current and finished projects!
+I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technology, with Bachelor’s degree in Mathematics. Interested in **ML** and **GenAI**. Feel free to explore my  projects!
 
 ## Personal Projects
 - **[TriathlonCoach](https://github.com/pitygiusz/TriathlonCoach)** - An agent-based AI coaching system designed to assist you in training for traithlons. (**Start here!**)
@@ -11,10 +11,8 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 - **[NYC-Citibike](https://github.com/pitygiusz/NYC-Citibike)** - Demand forecaster and historical data analysis for the NYC Citi Bike network, deployed as a web application.
 
-- **[Flowers-Recognition](https://github.com/pitygiusz/Flowers-Recognition)** - Custom CNN for predicting flower types.
-
-- **[Students-Survey](https://github.com/pitygiusz/Student-Surveys)** - Basic EDA and predictive model for the use of AI by students.
-
+## Hackathon Projects
+- **[Geo-Insight](https://github.com/pitygiusz/UNOCHA)** - Interactive briefing note generator that helps humanitarian coordinators quickly understand the funding landscape of crises around the world. Solution for [2026 Datathon at ETH Zurich](https://www.datathon.ai/).
 
 ## University Coursework Projects
 
@@ -24,17 +22,14 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 
 - **[LSTM-Gesture-Recognition](https://github.com/pitygiusz/LSTM-Gesture-Recognition)** - Gesture recognition system built with LSTMs to classify hand-drawn shapes in real-time.
  
-- **[Airplanes-R-Project](https://github.com/pitygiusz/Airplanes-R-Project)** - Short- vs long-term trends in airplane traffic after WTC Attacks.
-
 
 ## Technologies & Tools  
-- Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit)
-- GenAI & LLM (Hugging Face, RAG, Gemini API, Ollama, n8n)
+- Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit, Gradio)
+- GenAI & LLM (Hugging Face, RAG, Gemini API, Ollama, n8n, Openrouter, LangChain)
 - SQL, MS SQL
 - Linux, Bash, Hadoop, Hive, NiFi, Kafka, Spark
-- Java basics
 - Git, GitHub, GitHub Copilot
-- Basics of Cloud Computing (GCP, Azure), MS Office
+- MS Azure, MS Office
 
 
 ## Contact & Connect  
