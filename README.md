@@ -15,13 +15,15 @@ I’m **Piotr Jurczyk** — Data Science student at Warsaw University of Technol
 - **[Geo-Insight](https://github.com/pitygiusz/UNOCHA)** - Interactive briefing note generator that helps humanitarian coordinators quickly understand the funding landscape of crises around the world. Solution for [2026 Datathon at ETH Zurich](https://www.datathon.ai/).
 
 ## University Coursework Projects
+- **[Concept-Drift-Detector](https://github.com/pitygiusz/Concept-Drift-Detector)** - An online machine learning project investigating concept drift in political language. (**Start here!**)
+
+- **[OptimizationDataAnalysis](https://github.com/zochowskitomasz/OptimizationDataAnalysis)** - Comparison of transformer optimization algorithms, gradient warmup and burn-in strategies.
 
 - **[AirPollutionPredictor](https://github.com/zochowskitomasz/AirPollutionPredictor)** - PostgreSQL data pipeline and time-series forecasting for air quality monitoring.
-  
-- **[Brain-To-Text](https://github.com/pitygiusz/BrainToText)** - Brain-computer interface (BCI) for decoding speech from brain activity.
 
 - **[LSTM-Gesture-Recognition](https://github.com/pitygiusz/LSTM-Gesture-Recognition)** - Gesture recognition system built with LSTMs to classify hand-drawn shapes in real-time.
- 
+
+- **[AML-Project1](https://github.com/pitygiusz/AML-Project1)** - Analyzing the performance of a logistic regression model when trained on datasets with missing labels.
 
 ## Technologies & Tools  
 - Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch, Polars, Streamlit, Gradio)
